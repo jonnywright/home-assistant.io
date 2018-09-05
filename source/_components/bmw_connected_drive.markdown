@@ -81,7 +81,7 @@ The service `bmw_connected_drive.sound_horn` sounds the horn of the vehicle. Use
 
 ### {% linkable_title Flash the lights %}
 
-The service `bmw_connected_drive.light_flash' flashes the lights of the vehicle. The vehicle is identified via the parameter `vin`.
+The service `bmw_connected_drive.light_flash` flashes the lights of the vehicle. The vehicle is identified via the parameter `vin`.
 
 ### {% linkable_title Update the state %}
 
